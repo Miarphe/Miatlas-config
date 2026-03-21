@@ -1,0 +1,6 @@
+{
+  "_comment": "Change expiry_timestamp to extend or kill the app. Set force_expire true to brick everyone immediately. Timestamp tool: https://www.unixtimestamp.com multiply by 1000.",
+  "expiry_timestamp": 1774137600000,
+  "force_expire": false,
+  "message": "This free preview has ended. The full version of Miatlas is now available."
+}
